@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-22T09:56:42.208Z</updated>
+  <updated>2020-09-24T10:34:50.365Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/09/22/hello-world/"/>
-    <id>http://example.com/2020/09/22/hello-world/</id>
+    <title>Hi! This is Zoe.</title>
+    <link href="http://example.com/2020/09/22/about/"/>
+    <id>http://example.com/2020/09/22/about/</id>
     <published>2020-09-22T05:12:09.574Z</published>
-    <updated>2020-09-22T09:56:42.208Z</updated>
+    <updated>2020-09-24T10:34:50.365Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/BlueZoe.jpg" alt="cover"></p><br/><p><strong><font color='dodgerblue'>这里是Zoe</font></strong></p><p>至于Blue ，含义很简单——我最爱的颜色。</p><blockquote><p>蓝色是天空，是水，是空气，是深度和无限，是自由和生命，蓝色是宇宙最本质的颜色。</p><p>——伊夫·克莱因/Yves Klein</p></blockquote><br/><p>大学生活快结束的时候才建立了自己的个人博客，于我而言，有着重新开始的意味。想说的话太多以至于不知道从何下笔，这篇自我介绍或许会时不时更新一下吧哈哈。</p><p>最初只打算做一个技术类的博客，记录学习心得和笔记。不过后来想想这也算是我的一片小天地，不如也记录一下生活吧。</p><p>经历了一段很漫长又痛苦的迷茫期，秋招求职的结束算是为这段时期画了一个勉强的句号。但现在也仍在不断的自我追问和探寻，BlueZoe 是一个重新开始的标志，也是一个自我的记录。</p><p>总之，一直向前吧。</p><p>感谢熬过来的自己，感谢一直在身边支持我的人，也感谢阅读到此的你们。</p><br/><div align = "right">Zoe ‎2020‎.9‎.‎22‎ 19:12:09</div><br/>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/BlueZoe.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
+&lt;br/&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#39;dodgerblue&#39;&gt;这里是Zoe&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;至于Blue ，含义很简单——我</summary>
       
     
     
-    
-    <category term="Test" scheme="http://example.com/categories/Test/"/>
     
     
     <category term="随便写写" scheme="http://example.com/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
